@@ -11,7 +11,7 @@
 | RF002   |     Comprar boleto    |
 | :---        |    :----:   |
 | Prioridad | Alta |
-| Descripción |Caso 1: Si el pasajero está registrado se pedirá su ID, nombre y apellido, tipo de boleto, horario y asiento. /n Caso 2: Si el pasajero no está registrado, se pedirá su nombre y apellido para luego proceder a la compra del boleto.
+| Descripción |Caso 1: Si el pasajero está registrado se pedirá su ID, nombre y apellido, tipo de boleto, horario y asiento. <br> Caso 2: Si el pasajero no está registrado, se pedirá su nombre y apellido para luego proceder a la compra del boleto.
  |
 
 ***
