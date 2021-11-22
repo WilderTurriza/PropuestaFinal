@@ -1,7 +1,7 @@
 # Diagrama UML
 ## Primera entrega
 
-<img src="https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/POO.jpg" width=100%>
+<img src="https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/POO.jpg" width=100% high= 100%>
 
 
 
