@@ -4,7 +4,7 @@
 | RF001   |     Registar Pasajero    |
 | :---        |    :----:   |
 | Prioridad | Alta |
-| Descripción |El sistema permitirá registrar al pasajero mediante su nombre, apellido, edad. |
+| Descripción |El sistema permitirá registrar al pasajero mediante su nombre, apellido y tipo de pasajero.|
 
 ***
 
