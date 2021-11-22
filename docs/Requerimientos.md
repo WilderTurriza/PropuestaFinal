@@ -66,4 +66,4 @@
 
 | [Anterior](https://https://github.com/WilderTurriza/PropuestaFinal "Anterior") 
 | [Inicio](https://https://github.com/WilderTurriza/PropuestaFinal "Inicio") 
-| [Siguiente](https://https://github.com/WilderTurriza/PropuestaFinal "Siguiente") |
+| [Siguiente](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/Diagrama.md "Siguiente") |
