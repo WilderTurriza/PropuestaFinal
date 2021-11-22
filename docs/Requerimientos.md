@@ -64,6 +64,5 @@
 |----------|:-------------:|
 | Descripción |El ID se generará a partir del nombre, apellido y fecha de nacimiento. |
 
-| [Anterior](https://https://github.com/WilderTurriza/PropuestaFinal "Anterior") 
-| [Inicio](https://https://github.com/WilderTurriza/PropuestaFinal "Inicio") 
+| [Inicio](https://github.com/WilderTurriza/PropuestaFinal "Inicio") 
 | [Siguiente](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/Diagrama.md "Siguiente") |
