@@ -7,5 +7,5 @@ El sistema debe realizar lo siguiente: Realizar el registro del pasajero, compra
 
   - [Requerimientos](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/Requerimientos.md)
   - [Diagrama de UML](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/Diagrama.md)
-  - [Java doc](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/Requerimientos.md)
+  - [Java doc](https://wilderturriza.github.io/)
  
