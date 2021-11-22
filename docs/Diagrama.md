@@ -18,5 +18,5 @@
 
 | [Anterior](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/Requerimientos.md "Anterior") 
 | [Inicio](https://github.com/WilderTurriza/PropuestaFinal "Inicio") 
-| [Visualizar Imagen](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/POO.jpg "Visualizar Imagen") |
+| [Visualizar Imagen](https://github.com/WilderTurriza/PropuestaFinal/blob/main/docs/POO.jpg "Visualizar Imagen") 
 | [Java doc](https://wilderturriza.github.io/ "Java doc") |
