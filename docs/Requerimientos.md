@@ -62,7 +62,7 @@
 
 | RNF001   |     Generar ID    |  
 |----------|:-------------:|
-| Descripción |El ID se generará a partir del nombre, apellido y fecha de nacimiento. |
+| Descripción |El ID se generará a partir del nombre, apellido y dos número aleatorios. |
 
 
 | [Inicio](https://github.com/WilderTurriza/PropuestaFinal "Inicio") 
